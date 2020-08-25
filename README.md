@@ -4,4 +4,5 @@ Toronto Segmenting and Clustering project. Obtain Toronto neighborhood locations
 data_cleanup.ipynb:
 This code creates the Toronto neighborhood dataframe from a Wiki page and cleans up the data according to the project requirements.
 
-
+lat_lng_dataframe.ipynb:
+This code obtains latitude and longitude coordinates for all Toronto neighborhoods.
